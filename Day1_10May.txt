@@ -1,0 +1,6 @@
+Basic Introduction + GIT
+
+Lab 1 - 
+  Install Git on local machine
+  Create account for GitHub
+  
